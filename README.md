@@ -1,11 +1,11 @@
 # Miracle
 
-A custom storefront for **Miracle** — a dev studio selling source code, developer
+A custom storefront for **Miracle** a dev studio selling source code, developer
 tools, and custom coding solutions built to order. Clean, documented code,
 delivered the second payment clears.
 
 Built on the [Komerza](https://komerza.com) commerce platform with a fully
-custom frontend — no themes, no marketplace bloat.
+custom frontend: no themes, no marketplace bloat.
 
 **Live store:** [miracledev.mykomerza.com](https://miracledev.mykomerza.com)
 
@@ -13,13 +13,13 @@ custom frontend — no themes, no marketplace bloat.
 
 ## Features
 
-- **Live catalog** — products, variants, stock and reviews pulled straight from Komerza
-- **Quick-view modal** — pick a variant, check stock, read reviews, add to cart without leaving the page
-- **Slide-in cart** — quantity edits, live subtotal, persists across reloads
-- **Hosted checkout** — secure payment handled by Komerza, cards and crypto supported
-- **Custom engineering** — a built-to-order service flow with a direct line to the dev
-- **Scroll-spy navigation** — the navbar tracks whichever section you are reading
-- **Dark dev-studio design** — Geist type, a single teal accent, magnetic buttons and staggered motion
+- **Live catalog** / products, variants, stock and reviews pulled straight from Komerza
+- **Quick-view modal** / pick a variant, check stock, read reviews, add to cart without leaving the page
+- **Slide-in cart** / quantity edits, live subtotal, persists across reloads
+- **Hosted checkout** / secure payment handled by Komerza, cards and crypto supported
+- **Custom engineering** / a built-to-order service flow with a direct line to the dev
+- **Scroll-spy navigation** / the navbar tracks whichever section you are reading
+- **Dark dev-studio design** / Geist type, a single teal accent, magnetic buttons and staggered motion
 
 ![Why Miracle](screenshots/features.png)
 
