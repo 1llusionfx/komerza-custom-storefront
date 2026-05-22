@@ -8,6 +8,7 @@ Built on the [Komerza](https://komerza.com) commerce platform with a fully
 custom frontend: no themes, no marketplace bloat.
 
 **Live store:** [miracledev.mykomerza.com](https://miracledev.mykomerza.com)
+-# Currently not available due to problems of Komerza with deploying custom Storefronts.
 
 ![Home](screenshots/hero.png)
 
